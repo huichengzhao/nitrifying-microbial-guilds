@@ -1,0 +1,15 @@
+"","Means","SD"
+"num.edges",4782,0
+"num.pos.edges",0,0
+"num.neg.edges",0,0
+"num.vertices",324,0
+"connectance",0.0913886022245155,0
+"average.degree",29.5185185185185,0
+"average.path.length",1.96950236975882,0.00138124189707948
+"diameter",3,0
+"edge.connectivity",15.623,1.60918005843363
+"clustering.coefficient",0.0913301803686598,0.00134560202949674
+"no.clusters",1,0
+"centralization.degree",0.0496268776516455,0.00700184132961516
+"centralization.betweenness",0.00413776751989628,0.000745475295446363
+"centralization.closeness",0.0547577681622273,0.00533705198980125
